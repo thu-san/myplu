@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/thu-san/myplu/badge.svg?branch=master)](https://coveralls.io/github/thu-san/myplu?branch=master)
+[![Build Status](https://travis-ci.org/thu-san/myplu.svg?branch=master)](https://travis-ci.org/thu-san/myplu) [![Coverage Status](https://coveralls.io/repos/github/thu-san/myplu/badge.svg?branch=master)](https://coveralls.io/github/thu-san/myplu?branch=master)
 
 # mypluralize
 
