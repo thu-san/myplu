@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/thu-san/myplu/badge.svg?branch=master)](https://coveralls.io/github/thu-san/myplu?branch=master)
+
 # mypluralize
 
 A Node.js module that returns the plural form of any noun
