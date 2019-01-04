@@ -1,0 +1,30 @@
+{
+  "name": "myplu",
+  "version": "0.0.1",
+  "description": "A Node.js module that returns the plural form of any noun",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thu-san/myplu.git"
+  },
+  "author": "Tun Lin Thu <tunlinthu94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thu-san/myplu/issues"
+  },
+  "homepage": "https://github.com/thu-san/myplu#readme",
+  "devDependencies": {
+    "@types/pluralize": "0.0.29",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "typescript": "^3.2.2"
+  },
+  "dependencies": {
+    "pluralize": "^7.0.0"
+  }
+}
